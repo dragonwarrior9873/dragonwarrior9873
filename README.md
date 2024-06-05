@@ -37,28 +37,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🔗 Blockchain Development 💲
-
-With a burning passion for the web3 revolution, I'm here to bring my extensive expertise in Smart Contract Development, Gas Optimization, Security, DeFi Protocols, EIPs, Automated Market Makers, Decentralized Exchanges, and Layer 2 Scaling Solutions to the forefront of innovation. My arsenal is stocked with programming prowess in C/C++, Python, JavaScript, Solidity, Go, and Rust, making me a versatile warrior ready to conquer diverse challenges. 🛠️
-Beyond coding, I'm a wizard 🧙‍♂️ in web development frameworks like React, Node.js, Next.js, and TypeScript, ensuring seamless and intuitive user experiences in the decentralized world. Leveraging tools like Brownie, Truffle, and Hardhat, I craft quality code with ease, while Jest, Chai, and Mocha underpin my commitment to reliability and excellence.<br /><br />
-But wait, there's more! I'm also a maestro in Moralis, The Graph, Chainlink, OpenZeppelin, and Redis, blending best practices with cutting-edge resources for robust blockchain solutions. 💡<br /><br />
-📈 Expanding Horizons with Trading Bot Expertise 📉<br />
-I'm thrilled to announce that I bring a wealth of knowledge in developing high-performance trading bots, harnessing TradingView signals to maximize your investment potential. Whether you're navigating the volatile seas of crypto or the stock market, my solutions are tailored to keep you ahead of the curve. 
-
-## 🌐 FullStack Development
-
-I have a strong understanding of web development technologies and have experience working with a wide range of programming languages and frameworks.<br /><br />
-With 7 years of experience in building modern and responsive web applications I have a strong eye for design and a keen attention to detail, ensuring that every pixel on the screen looks exactly as intended. I'm also well-versed in usability and accessibility, making sure that the user experience is smooth and enjoyable for all.<br /><br />
-In my previous roles, I have successfully implemented and maintained large-scale web applications and have a proven track record of delivering projects on time and within budget. My expertise in DevOps and cloud infrastructure allows me to manage and optimize the performance of my projects while ensuring they are scalable and secure.<br /><br />
-I take pride in writing clean and maintainable code that is easily scalable.
-I'm interested in building something awesome with code and automate tasks with code, currently focused on Web & Mobile Development, and Competitive Programming
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# 🛠️ My Languages & Tools & Techs & Services 😎
-
 ## 👩‍💻 Languages
 <p  align="center">
   <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
@@ -193,4 +171,4 @@ I'm interested in building something awesome with code and automate tasks with c
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [banner]: [https://github.com/dragonwarrior9873/Asset/blob/main/github-header-image.png]
-[website]: [https://dragonwarrior9873.github.io/]
+[website]: [[https://dragonwarrior9873.github.io/]](https://dragonwarrior9873.github.io/)
