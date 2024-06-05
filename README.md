@@ -1,4 +1,8 @@
-[![bg][banner]][website]
+Hi there 👋
+
+✨ About Me
+I am Kevin Ruiz.
+I am a Blockchain and FullStack Developer with 8+ years of experience in developing enterprise applications, open-source software and so many Defi platforms and NFT sites.
 
 <p align="center">
   <a href="https://linkedin.com/in/milblue789" alt="LinkedIn">
@@ -18,24 +22,6 @@
   </a>
 </p>
 
-# 💫 About Me 🌟
-
-<p>
-  <a href="#">
-    <img alt="ViewCount" src="https://views.whatilearened.today/views/github/terryblackdragon/views.svg">
-  </a>
-  <a href="#">
-    <img alt="version :20.08.2021" src="https://img.shields.io/badge/version-20.08.2021-informational">
-  </a>
-  <a href="#">
-    <img alt="GitHub terryblackdragon" src="https://img.shields.io/github/followers/terryblackdragon?label=follow&style=social">
-  </a>
-  <a href="#">
-    <img alt="build: passing" src="https://img.shields.io/badge/build-passing-success">
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👩‍💻 Languages
 <p  align="center">
@@ -100,23 +86,6 @@
   <img src="https://img.shields.io/badge/axios-671ddf?&style=flat&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" />
-</p>
-
-#### *** Package Management ***
-<p  align="center">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/pnpm-yellow?style=flat&logo=pnpm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" />
-</p>
-
-### *** Container & Tests ***
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=Mocha&logoColor=white" />
 </p>
 
 ## ⚡ Database
