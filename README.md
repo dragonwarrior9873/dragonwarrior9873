@@ -54,18 +54,6 @@ I take pride in writing clean and maintainable code that is easily scalable.
 I'm interested in building something awesome with code and automate tasks with code, currently focused on Web & Mobile Development, and Competitive Programming
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎑 Education & Employment
-
-### 📚 Education
-
-| Course                         | School/University     | Year of Passing |
-| ------------------------------ | --------------------- | --------------- |
-| B.S. in Computer Science       | Hong Kong College of 
-                                              Technology | 2013            |
-                                              
-### 🥅 Work/Jobs
-
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -166,40 +154,6 @@ I'm interested in building something awesome with code and automate tasks with c
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 </p>
 
-## ☁ Cloud
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/circleci-343434?style=flat&logo=circleci&logoColor=white" />
-  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=DigitalOcean&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=Nextcloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" />
-</p>
-
-## 👩‍💻 IDE
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white" />
-</p>
-
-## 🖍 Design
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
-  <img src="https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white" />
-  <img src="  https://img.shields.io/badge/Proto.io-161637?style=flat&logo=proto.io&logoColor=00e5ff" />
-</p>
-
 ## 🔗 Blockchain
 
 <p align="center">
@@ -238,5 +192,5 @@ I'm interested in building something awesome with code and automate tasks with c
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[banner]: [https://raw.githubusercontent.com/terryblackdragon/terryblackdragon/master/asset/github-header-image.png](https://github.com/dragonwarrior9873/Asset/blob/main/github-header-image.png)
-[website]: [https://terryblackdragon.me](https://dragonwarrior9873.github.io/)
+[banner]: [https://github.com/dragonwarrior9873/Asset/blob/main/github-header-image.png]
+[website]: [https://dragonwarrior9873.github.io/]
