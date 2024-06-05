@@ -4,19 +4,16 @@
   <a href="https://linkedin.com/in/milblue789" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram" />
   </a>
-  <a href="https://hackerrank.com/milblue789" alt="HackerRank">
+  <a href="https://www.hackerrank.com/profile/KevinRuiz" alt="HackerRank">
     <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
   </a>
-  <a href="https://stackoverflow.com/users/13870209/milblue789" alt="StackOverflow">
+  <a href="https://stackoverflow.com/users/13870209/kevinruiz" alt="StackOverflow">
     <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
   </a>
-  <a href="mailto:milblue789@gmail.com">
+  <a href="mailto:dragonwarrior9873@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/milblue789">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/milblue789" alt="LinkedIn">
+  <a href="https://linkedin.com/in/KevinRuiz" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
@@ -64,25 +61,11 @@ I'm interested in building something awesome with code and automate tasks with c
 
 | Course                         | School/University     | Year of Passing |
 | ------------------------------ | --------------------- | --------------- |
-| B.E. in Computer Engineering   | Megatrend Univerzitet | 2013            |
-| FullStack Engineer course      | Codecademy            | 2016            |
-| Blockchain technologies course | ITAcademy             | 2020            |
-
-### 🏧 Employment
-
-| Company                | Role                        | Year of Passing | Location         |
-| ---------------------- | --------------------------- | --------------- | ---------------- |
-| Pharos Production Inc. | Software Engineer           | 2014 - 2016     | Kyiv, Ukraine    |
-| Codetribe              | FullStack Developer         | 2016 - 2020     | Novi Sad, Serbia |
-| MVP Workshop           | Senior Blockchain Developer | 2020 - Present  | Beograd, Serbia  |
-
+| B.S. in Computer Science       | Hong Kong College of 
+                                              Technology | 2013            |
+                                              
 ### 🥅 Work/Jobs
 
-<p>
-  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white" />
-  <img src="https://img.shields.io/badge/fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" />
-  <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=Freelancer&logoColor=white" />
-</p>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -255,5 +238,5 @@ I'm interested in building something awesome with code and automate tasks with c
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[banner]: https://raw.githubusercontent.com/terryblackdragon/terryblackdragon/master/asset/github-header-image.png
-[website]: https://terryblackdragon.me
+[banner]: [https://raw.githubusercontent.com/terryblackdragon/terryblackdragon/master/asset/github-header-image.png](https://github.com/dragonwarrior9873/Asset/blob/main/github-header-image.png)
+[website]: [https://terryblackdragon.me](https://dragonwarrior9873.github.io/)
