@@ -1,7 +1,7 @@
 Hi there 👋
 
 ✨ About Me
-I am Kevin Ruiz.
+
 I am a Blockchain and FullStack Developer with 8+ years of experience in developing enterprise applications, open-source software and so many Defi platforms and NFT sites.
 
 <p align="center">
