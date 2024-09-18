@@ -2,7 +2,7 @@ Hi there 👋
 
 ✨ About Me
 
-I am a Blockchain and FullStack Developer with 8+ years of experience in developing enterprise applications, open-source software and so many Defi platforms and NFT sites.
+I am a Senior Frontend and Blockchain Developer with 10+ years of experience in developing enterprise applications, open-source software and so many Defi platforms and NFT sites.
 
 <p align="center">
   <a href="https://linkedin.com/in/milblue789" alt="LinkedIn">
