@@ -129,10 +129,6 @@ I am a Blockchain and FullStack Developer with 8+ years of experience in develop
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=terryblackdragon&theme=holi-theme">
 
-## 🔥 GitHub Profile Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=terryblackdragon&count_private=true&show_icons=true&theme=github_dark">
-
 ## 🔥 Trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=terryblackdragon&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
