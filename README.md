@@ -1,28 +1,5 @@
 Hi there 👋
 
-✨ About Me
-
-I am a Senior Frontend and Blockchain Developer with 10+ years of experience in developing enterprise applications, open-source software and so many Defi platforms and NFT sites.
-
-<p align="center">
-  <a href="https://linkedin.com/in/milblue789" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/KevinRuiz" alt="HackerRank">
-    <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
-  </a>
-  <a href="https://stackoverflow.com/users/13870209/kevinruiz" alt="StackOverflow">
-    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="mailto:dragonwarrior9873@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/KevinRuiz" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-</p>
-
-
 ## 👩‍💻 Languages
 <p  align="center">
   <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
